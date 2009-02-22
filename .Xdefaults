@@ -1,0 +1,14 @@
+Xft.dpi: 96
+Xft.antialias: true
+Xft.hinting: false
+
+XTerm*background:    black
+XTerm*foreground:    white
+urxvt*background:    black
+urxvt*foreground:    white
+urxvt*font: xft:terminus:pixelsize=16
+
+URxvt.perl-ext-common: default,tabbed
+URxvt.urlLauncher: firefox
+URxvt.matcher.button: 1
+
