@@ -1,0 +1,22 @@
+set imap_passive
+set imap_keepalive=300
+set imap_user = "sbpaulin@gmail.com"
+set imap_pass = "zaphodbeeblebrox"
+
+set smtp_url = "smtp://sbpaulin@smtp.gmail.com:587/"
+set smtp_pass = "zaphodbeeblebrox"
+set from = "sbpaulin@gmail.com"
+set realname = "Sam Paulin"
+
+set folder = "imaps://imap.gmail.com:993"
+set spoolfile = "+INBOX"
+set postponed = "+[Gmail]/Drafts"
+
+set header_cache = ~/.mutt/cache/headers
+set message_cachedir = ~/.mutt/cache/bodies
+set certificate_file = ~/.mutt/certificates
+
+set move = no
+alias dad Mike Paulin <mike.paulin@stonebow.otago.ac.nz>
+alias ben Ben Liddell <bcliddell@gmail.com>
+alias mum Sue Barnaby <sbarnaby@dcc.govt.nz>
