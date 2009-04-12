@@ -1,0 +1,4 @@
+set! extensions.checkCompatibility=false
+set! security.dialog_enable_delay=0
+set! startup.homepage_override_url="about:blank"
+set guioptions=nb
